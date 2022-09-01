@@ -119,4 +119,11 @@ nav .fa{
     .nav-links ul{
         padding: 30px;
     }
+
+    .school-life-text-box h1{
+        top:0;
+        text-align: center;
+        position: relative;
+    }
+
 }
